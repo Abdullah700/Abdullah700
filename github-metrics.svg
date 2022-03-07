@@ -1357,7 +1357,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>icd2k3/use-react-router-breadcrumbs</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">tiny, flexible, hook for rendering route breadcrumbs with react-router v6</div>
@@ -2550,7 +2550,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Mar 2022, 08:05:06 (timezone Asia/Riyadh) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 7 Mar 2022, 09:05:25 (timezone Asia/Riyadh) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
