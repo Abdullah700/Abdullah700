@@ -1357,7 +1357,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lukeed/dequal</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tiny (304B to 489B) utility to check for deep equality</div>
@@ -2537,7 +2537,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Apr 2022, 22:04:57 (timezone Asia/Riyadh) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 18 Apr 2022, 23:05:26 (timezone Asia/Riyadh) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
