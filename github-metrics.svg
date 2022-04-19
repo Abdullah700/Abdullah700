@@ -1362,7 +1362,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lukeed/dequal</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tiny (304B to 489B) utility to check for deep equality</div>
@@ -1415,7 +1415,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>retyui/react-native-confirmation-code-field</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A react-native confirmation code field compatible with IOS, Android</div>
@@ -1521,7 +1521,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>remix-run/react-router</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Declarative routing for React</div>
@@ -2542,7 +2542,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Apr 2022, 10:05:10 (timezone Asia/Riyadh) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 19 Apr 2022, 11:05:47 (timezone Asia/Riyadh) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
