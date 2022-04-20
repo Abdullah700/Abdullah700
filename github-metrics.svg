@@ -1367,7 +1367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lukeed/dequal</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tiny (304B to 489B) utility to check for deep equality</div>
@@ -1473,7 +1473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GitCredentialManager/git-credential-manager</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.</div>
@@ -1632,7 +1632,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TanStack/react-location</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2558,7 +2558,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Apr 2022, 11:05:57 (timezone Asia/Riyadh) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 20 Apr 2022, 12:05:18 (timezone Asia/Riyadh) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
