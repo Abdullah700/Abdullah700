@@ -2392,7 +2392,7 @@ perm</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 743k out of 89m users</span>
+                                    <span class="gh">ranked 742k out of 89m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">12</div>
                                     </div>
@@ -2566,7 +2566,7 @@ perm</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Apr 2022, 07:11:48 (timezone Asia/Riyadh) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 26 Apr 2022, 08:07:17 (timezone Asia/Riyadh) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
