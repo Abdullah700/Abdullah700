@@ -225,7 +225,7 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="246.47261380843173" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="246.47261380843173" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="246.47261380843173" y="0" width="215.41688066164295" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="461.8894944700747" y="0" width="180.3790035508408" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="642.2684980209154" y="0" width="120.5307555055742" height="8" fill="#563d7c"/>
@@ -237,7 +237,7 @@
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
                     </div>
@@ -2523,7 +2523,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jun 2022, 12:05:16 (timezone Asia/Riyadh) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 10 Jun 2022, 13:05:23 (timezone Asia/Riyadh) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
