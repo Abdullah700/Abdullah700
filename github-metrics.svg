@@ -1340,7 +1340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>immerjs/immer</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Create the next immutable state by mutating the current one</div>
@@ -1393,7 +1393,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pmndrs/zustand</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1458,7 +1458,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rematch/rematch</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Redux Framework</div>
@@ -1511,7 +1511,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebookexperimental/Recoil</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.</div>
@@ -2452,7 +2452,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jun 2022, 04:37:24 (timezone Asia/Riyadh) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 24 Jun 2022, 05:46:45 (timezone Asia/Riyadh) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
