@@ -1558,7 +1558,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebookexperimental/Recoil</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.</div>
@@ -2439,7 +2439,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2022, 11:06:46 (timezone Asia/Riyadh) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 22 Jul 2022, 12:05:16 (timezone Asia/Riyadh) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
