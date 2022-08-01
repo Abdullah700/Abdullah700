@@ -1357,7 +1357,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>infinitered/apisauce</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Axios + standardized errors + request/response transforms.</div>
@@ -1410,7 +1410,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chokcoco/iCSS</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">不止于 CSS</div>
@@ -2446,7 +2446,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Aug 2022, 13:05:37 (timezone Asia/Riyadh) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 1 Aug 2022, 14:05:29 (timezone Asia/Riyadh) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
