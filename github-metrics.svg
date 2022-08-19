@@ -1334,7 +1334,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rnosov/react-reveal</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easily add reveal on scroll animations to your React app</div>
@@ -1549,7 +1549,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>in28minutes/spring-boot-master-class</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Understand and love the power of Spring Boot - All its features are illustrated developing a web application managing todos and a basic API for survey questionnaire. Also covers unit testing, mocking and integration testing.</div>
@@ -2432,7 +2432,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Aug 2022, 13:05:46 (timezone Asia/Riyadh) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 19 Aug 2022, 14:05:15 (timezone Asia/Riyadh) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
