@@ -1334,7 +1334,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jcsalterego/jqq</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">jq Querier: an interactive wrapper around jq</div>
@@ -1387,7 +1387,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>junegunn/fzf</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1596,7 +1596,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chokcoco/iCSS</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">不止于 CSS</div>
@@ -1730,7 +1730,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        575
+                                        576
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2432,7 +2432,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Aug 2022, 07:24:35 (timezone Asia/Riyadh) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 19 Aug 2022, 08:13:10 (timezone Asia/Riyadh) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
