@@ -1623,7 +1623,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>infinitered/apisauce</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Axios + standardized errors + request/response transforms.</div>
@@ -2459,7 +2459,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Aug 2022, 11:25:16 (timezone Asia/Riyadh) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 24 Aug 2022, 12:19:09 (timezone Asia/Riyadh) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
