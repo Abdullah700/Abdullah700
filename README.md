@@ -1,10 +1,11 @@
 ### Hi there 👋
-##
-<figure><embed src="https://wakatime.com/share/@Abdullah700/cc7a4e8d-63b4-4467-be92-a19fd85f7f6a.svg"></embed></figure>
+
 ## 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah700&show_icons=true&count_private=true&theme=codeSTACKr)
 ##
 ![Metrics](/github-metrics.svg)
+##
+![WakaTime Status](https://wakatime.com/share/@Abdullah700/c955bf93-e51e-4be9-bf9b-8e3b57794d76.svg)
 
 
 <!--
