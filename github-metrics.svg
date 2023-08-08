@@ -2354,7 +2354,7 @@
                                         <span>starred 8 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Open-source technical content management platform</div>
+                                <div class="field description">Open-source technical content management platform | Now in Public Beta</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2565,7 +2565,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Aug 2023, 15:03:58 (timezone Asia/Riyadh) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 8 Aug 2023, 21:03:33 (timezone Asia/Riyadh) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
