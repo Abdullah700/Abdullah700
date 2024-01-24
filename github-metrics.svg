@@ -2303,7 +2303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pastelsky/tsdocs</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Browse type documentation for JS libraries</div>
@@ -2711,7 +2711,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.14m out of 126m users</span>
+                                    <span class="gh">ranked 2.14m out of 128m users</span>
                                 </div>
                                 <div class="text">Published 24 public repositories</div>
                             </div>
@@ -2798,7 +2798,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 795k out of 126m users</span>
+                                    <span class="gh">ranked 795k out of 128m users</span>
                                 </div>
                                 <div class="text">Followed by 17 users</div>
                             </div>
@@ -2998,7 +2998,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Jan 2024, 09:03:43 (timezone Asia/Riyadh) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jan 2024, 15:04:10 (timezone Asia/Riyadh) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
