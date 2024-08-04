@@ -2387,7 +2387,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>franken-ui/ui</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Franken UI is an HTML-first, open-source library of UI components that works as a standalone or as a Tailwind CSS plugin. It is compatible with UIkit 3. The design is influenced by shadcn/ui.</div>
@@ -3137,7 +3137,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Aug 2024, 03:10:33 (timezone Asia/Riyadh) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Aug 2024, 09:03:23 (timezone Asia/Riyadh) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
