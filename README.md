@@ -16,6 +16,10 @@
 
 ---
 
+<figure><embed src="https://wakatime.com/share/@Abdullah700/65c52499-9733-41d3-97fe-9f6ef9748e1e.svg"></embed></figure>
+
+---
+
 <a href="https://app.daily.dev/abdullah700"><img src="https://api.daily.dev/devcards/v2/xItRcFMSD.png?type=default&r=qpa" width="356" alt="Abdullah's Dev Card"/></a>
 
 ---
