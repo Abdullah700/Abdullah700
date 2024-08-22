@@ -16,7 +16,7 @@
 
 ---
 
-<figure><embed src="https://wakatime.com/share/@Abdullah700/65c52499-9733-41d3-97fe-9f6ef9748e1e.svg"></embed></figure>
+![](https://wakatime.com/share/@Abdullah700/65c52499-9733-41d3-97fe-9f6ef9748e1e.svg)
 
 ---
 
