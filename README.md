@@ -20,8 +20,7 @@
 
 ---
 
-<a href="https://app.daily.dev/abdullah700"><img src="https://api.daily.dev/devcards/v2/xItRcFMSD.png?type=default&r=qpa" width="356" alt="Abdullah's Dev Card"/></a>
-
+<a href="https://app.daily.dev/abdullah700"><img src="https://api.daily.dev/devcards/v2/xItRcFMSD.png?type=default&r=n8n" width="356" alt="Abdullah Alshaye's Dev Card"/></a>
 ---
 [![](https://visitcount.itsvg.in/api?id=abdullah700&icon=0&color=4)](https://visitcount.itsvg.in)
 
