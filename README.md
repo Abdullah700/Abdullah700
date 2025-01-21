@@ -15,6 +15,10 @@
 
 
 ---
+### 👨‍💻 Coding Activity
+<figure><embed src="https://wakatime.com/share/@Abdullah700/a91d0d5a-110d-4308-aad9-acf457e2d42e.svg"></embed></figure>
+
+---
 
 <a href="https://app.daily.dev/abdullah700"><img src="https://api.daily.dev/devcards/v2/xItRcFMSD.png?type=default&r=n8n" width="356" alt="Abdullah Alshaye's Dev Card"/></a>
 ---
