@@ -16,7 +16,7 @@
 
 ---
 ### 👨‍💻 Coding Activity
-<figure><embed src="https://wakatime.com/share/@Abdullah700/a91d0d5a-110d-4308-aad9-acf457e2d42e.svg"></embed></figure>
+![Coding Activity](https://wakatime.com/share/@Abdullah700/a91d0d5a-110d-4308-aad9-acf457e2d42e.svg)
 
 ---
 
