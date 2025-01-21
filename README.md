@@ -16,10 +16,6 @@
 
 ---
 
-![](https://wakatime.com/share/@Abdullah700/65c52499-9733-41d3-97fe-9f6ef9748e1e.svg)
-
----
-
 <a href="https://app.daily.dev/abdullah700"><img src="https://api.daily.dev/devcards/v2/xItRcFMSD.png?type=default&r=n8n" width="356" alt="Abdullah Alshaye's Dev Card"/></a>
 ---
 [![](https://visitcount.itsvg.in/api?id=abdullah700&icon=0&color=4)](https://visitcount.itsvg.in)
